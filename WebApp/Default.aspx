@@ -4,7 +4,7 @@
 
     <main>
         <section class="row" aria-labelledby="aspnetTitle">
-            <h1 id="aspnetTitle">Contoso</h1>
+            <h1 id="aspnetTitle">Contoso Demo</h1>
             <p class="lead">Contoso - HR Web Demo1 Application Portal.</p>
             <p><a href="http://www.asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
         </section>
